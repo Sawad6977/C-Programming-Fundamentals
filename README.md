@@ -86,7 +86,7 @@ This project helps in understanding:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Kazi Sawad Ibne Hossain**
 Student | Programmer | Problem Solver
 
 ## 📜 License
